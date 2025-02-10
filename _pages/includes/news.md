@@ -1,3 +1,3 @@
 # 🔥 News
-- *2025.01*: I will join Clemson IE <img src='./images/clemson.png' style='width: 6em;'> as a tenure-track assistant professor!
+- *2025.01*: I will join Clemson IE <img src='./images/clemson.png' style='width: 1em;'> as a tenure-track assistant professor!
 
