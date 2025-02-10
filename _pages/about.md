@@ -18,3 +18,5 @@ redirect_from:
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/conference.md %}
+
+{% include_relative includes/personal.md %}
