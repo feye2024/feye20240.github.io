@@ -1,10 +1,11 @@
 # 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+
+- **First Place**, [IISE QCRE Track Best Student Poster Award](https://soe.rutgers.edu/news/ise-phd-student-wins-best-student-poster-competition-iise-annual-conference), *2024* 
+- **First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-y-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-qNTu?utm_source=share&utm_medium=member_desktop), *2023* 
+- **First Place**, [INFORMS Sustainability Cluster Best Student Paper Award](https://academicaffairs.rutgers.edu/njwind/fengye-wins-INFORMS-award), *2022* 
+- New Jersey Wind Institute Fellowship (awarded to 10 graduate students in NJ per year), *2023*
+- Rutgers Climate and Energy Institute (RCEI) Student Support Funding Award, *2024*
+- Outstanding Ph.D. Student Award (Research), Department of Industrial & Systems Engineering , Rutgers University, *2024*
+- Research & Travel Award, School of Graduate Studies, Rutgers University, *2024*
+- Graduate Student Service Award, Department of Industrial & Systems Engineering, Rutgers University,  *2024*
+- Rutgers University Fellowship, Department of Industrial & Systems Engineering, Rutgers University, *2024*
