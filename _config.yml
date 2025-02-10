@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feng Ye"
-description              : "Incoming assistant professor in Industrial Engineering at Clemson University; Ph.D candidate at Rutgers ISE."
+description              : "Ph.D candidate at Rutgers ISE; Incoming assistant professor in Industrial Engineering at Clemson University"
 repository               : "feye2024/feye2024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Feng Ye"
   avatar           : "images/fy_profile.jpg"
-  bio              : "Clemson University"
-  location         : "Clemson, USA"
+  bio              : "Rutgers University"
+  location         : "NJ, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zVMD4PMAAAAJ&hl=en"
